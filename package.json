@@ -2,7 +2,7 @@
   "name": "style-guide-challenges",
   "version": "0.1.0",
   "description": "The goal is to create a small library of page components that can be quickly and easily dropped into a project with minimal work to integrate them into a codebase.",
-  "main": "app/app.js",
+  "main": "app/index.js",
   "directories": {
     "test": "tests"
   },

@@ -1,6 +1,12 @@
 // Fonts
+@import url(https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed|Roboto+Mono|Roboto+Slab);
 
-@import url(https://fonts.googleapis.com/css?family=Abril+Fatface|Arvo|Lato|Noto+Sans|Open+Sans|Roboto|Roboto+Slab|Unna|Vollkorn);
+$main-font: 'Roboto', sans-serif;
+$condensed-font: 'Roboto Condensed', sans-serif;
+$serif-font: 'Roboto Slab', serif;
+$monosapce-font: 'Roboto Mono', monospace;
+
+@import url(https://fonts.googleapis.com/css?family=Abril+Fatface|Arvo|Lato|Noto+Sans|Open+Sans|Unna|Vollkorn);
 
 $font-roboto: 'Roboto', sans-serif;
 $font-roboto-slab: 'Roboto Slab', serif;
