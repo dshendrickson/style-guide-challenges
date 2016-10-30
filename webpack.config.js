@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   entry: {
-    main: ['babel-polyfill', './app/app.js']
+    main: ['babel-polyfill', './app/index.js']
   },
   output: {
     path: path.join(__dirname, 'public'),

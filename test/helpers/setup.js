@@ -7,7 +7,7 @@ require('babel-polyfill');
 global.document = require('jsdom').jsdom(`
   <head>
     <meta charset='UTF-8'>
-    <title>NPM Template</title>
+    <title>Style Guide Challenges</title>
   </head>
   <body>
     <div id='react-container'></div>
